@@ -1,0 +1,185 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+/*premier partie */
+
+img{
+    
+    width:200px ;
+    height: 200px;
+    bottom: 60%;
+    left: 1%;
+}
+
+hgroup{
+    font-size:  20px;
+    letter-spacing: 3px ; /*espacement texte */
+    font-weight: bold;
+    color: rgb(255, 255, 255);  
+    left: 35%;
+    top: 10%;
+    background-color: rgb(0, 176, 199);
+}
+
+/* partie contact */
+section h2{
+    font-size:  20px;
+    color: rgb(36, 14, 16);
+    left: 5%;
+    top: 43%;
+    background-color: blueviolet;
+}
+
+
+.icone1  img{ /*site*/
+        width:30px ;
+        height: 30px;
+        bottom: 30%;
+        left: 3%;
+    }
+
+.icone1 a{
+    width:30px ;
+    height: 30px;
+    bottom: 30%;
+    left: 10%;
+}
+
+.icone2  img{ /*mail*/
+    width:30px ;
+    height: 30px;
+    bottom: 38%;
+    left: 3%;
+}
+
+.icone2 a{
+  
+    width:30px ;
+    height: 30px;
+    bottom: 38%;
+    left: 10%;
+}
+
+.icone3  img{ /*phone*/    
+    width:30px ;
+    height: 30px;
+    bottom: 45%;
+    left: 3%;
+}
+
+.icone3 p{
+    height: 30px;
+    bottom:45%;
+    left: 10%;
+}
+
+
+/* partie a propos de mi */
+
+.moi{ 
+    background: rgb(0, 26, 255); 
+}
+
+.moi p{
+    color: rgb(229, 252, 146);
+   
+}
+
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.zone30{
+    width: 30%;
+}
+
+.zone70{
+    width: 70%;
+}
+
+/* partie experience*/
+
+.service{
+    background: palevioletred;
+    padding: 100px 0;
+    column-count: 2;
+    column-width: 200px;
+}
+ 
+
+    
+
+/* partie ma formation*/
+
+.formation{
+    background: rgb(207, 241, 11);
+
+}
+
+.formation2{
+    column-count: 2;
+    column-width: 200px;
+    background-color: rgb(231, 231, 180);
+    padding: 100px 0;
+}
+
+
+.titre h2{ 
+    left: 70%;
+    top: 73%;
+    color: rgb(218, 218, 255);
+
+   
+
+}
+
+/* partie footer*/
+
+.ligne{
+    column-count: 3;
+    column-width: 200px;
+    background-color: rgb(105, 105, 98);
+}
+
+
+/*loisirs*/ 
+.icones{
+    font-size: 25px;
+    
+}
+
+.zone20{
+    width: 20%;}
+
+
+.zone80{
+    width: 80%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
